@@ -22,7 +22,7 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 
 |:------:|:---------:|
 
-| Gravando Alterações no Repositório Local | \[Resumo](https://git-scm.com/book/pt-br/v2/Fundamentos-de-Git-Gravando-Altera%C3%A7%C3%B5es-em-Seu-Reposit%C3%B3rio) |
+| Gravando Alterações no Repositório Local | \[Resumos](https://git-scm.com/book/pt-br/v2/Fundamentos-de-Git-Gravando-Altera%C3%A7%C3%B5es-em-Seu-Reposit%C3%B3rio) |
 
 | `git init` | Inicia o repositório
 
